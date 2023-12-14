@@ -8,4 +8,4 @@ if [ $# -ne 3 ]; then
 fi
 
 # If the number of arguments is correct, sort the numbers in ascending order and write them to a file
-echo -e "$1\n$2\n$3" | sort -n > numbers.txt
+echo -e "$1\n$2\n$3" | sort -n > numbers.txt     alain
